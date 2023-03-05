@@ -1826,12 +1826,8 @@ a {
 .cid-sFHu2wLoQp .row .mbr-text {
   color: #232323;
 }
-.cid-txENVr3CK3 {
-  z-index: 1000;
-  width: 100%;
-}
-.cid-txENVr3CK3 nav.navbar {
-  position: fixed;
+.cid-txENVr3CK3 .navbar-dropdown {
+  position: relative !important;
 }
 .cid-txENVr3CK3 .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1928,7 +1924,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #bbbbbb;
 }
 .cid-txENVr3CK3 .navbar.opened {
@@ -2142,7 +2138,6 @@ a {
 }
 .cid-txENVr3CK3 .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-txENVr3CK3 a.nav-link {
   display: flex;
@@ -2717,12 +2712,8 @@ a {
   background-image: url("../../../assets/images/mbr-1920x1357.jpg");
   overflow: hidden;
 }
-.cid-txENVr3CK3 {
-  z-index: 1000;
-  width: 100%;
-}
-.cid-txENVr3CK3 nav.navbar {
-  position: fixed;
+.cid-txENVr3CK3 .navbar-dropdown {
+  position: relative !important;
 }
 .cid-txENVr3CK3 .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2819,7 +2810,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #bbbbbb;
 }
 .cid-txENVr3CK3 .navbar.opened {
@@ -3033,7 +3024,6 @@ a {
 }
 .cid-txENVr3CK3 .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-txENVr3CK3 a.nav-link {
   display: flex;
@@ -3338,12 +3328,8 @@ a {
   background-image: url("../../../assets/images/mbr-1920x1357.jpg");
   overflow: hidden;
 }
-.cid-txENVr3CK3 {
-  z-index: 1000;
-  width: 100%;
-}
-.cid-txENVr3CK3 nav.navbar {
-  position: fixed;
+.cid-txENVr3CK3 .navbar-dropdown {
+  position: relative !important;
 }
 .cid-txENVr3CK3 .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -3440,7 +3426,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #bbbbbb;
 }
 .cid-txENVr3CK3 .navbar.opened {
@@ -3654,7 +3640,6 @@ a {
 }
 .cid-txENVr3CK3 .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-txENVr3CK3 a.nav-link {
   display: flex;
